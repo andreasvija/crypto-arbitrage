@@ -1,5 +1,6 @@
 In addition to our ML algorithm analysis we tried implementing some NON-ML solutions into QC.
 Here are some of the results it provided. The test period was the year 2020, since it had large ups and downs (best for analysing drawdown).
+All tests were held at hourly resoluton.
 
 BASELINE - buying in beginning and selling at end:
 
