@@ -23,8 +23,3 @@ DCA+RSI+SMA ensemble based buy-sell:
 * Sharpe ratio - -0.719
 * Drawdown - 7.5%
 
-
-Random XGBoost ML prediction (take this with a grain of salt as it is pretty much a random prediction):
-* Sharpe ratio - 1.386
-* Drawdown - 23.6%
-
