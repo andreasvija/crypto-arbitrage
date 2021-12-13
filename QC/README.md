@@ -1,3 +1,12 @@
+Since our ML algorithms performed pretty similarly, thus we only implemented one (Randomforest ML algorithm) as a baseline to compare with non-ML solutions. The test period was the year 2020, since it had large ups and downs (best for analysing drawdown).
+All tests were held at hourly resoluton.
+
+BASELINE - Randomforest (RF) machine learning algorithm + buying everything before raises and selling everything before dips
+
+* Sharpe ratio - -0.287
+* Drawdown - 7.5%
+
+
 In addition to our ML algorithm analysis we tried implementing some NON-ML solutions into QC.
 Here are some of the results it provided. The test period was the year 2020, since it had large ups and downs (best for analysing drawdown).
 All tests were held at hourly resoluton.
