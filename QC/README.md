@@ -3,35 +3,27 @@ Here are some of the results it provided. The test period was the year 2020, sin
 
 BASELINE - buying in beginning and selling at end:
 
-Sharpe ratio - 3.742
-
-Drawdown - 59.6%
+* Sharpe ratio - 3.742
+* Drawdown - 59.6%
 
 
 RSI based buy-sell:
 
-Sharpe ratio - 1.601
-
-Drawdown - 1.9%
+* Sharpe ratio - 1.601
+* Drawdown - 1.9%
 
 
 EMA based buy-sell:
-
-Sharpe ratio - 0.941
-
-Drawdown 3.1%
+* Sharpe ratio - 0.941
+* Drawdown 3.1%
 
 
 DCA+RSI+SMA ensemble based buy-sell:
-
-Sharpe ratio - -0.719
-
-Drawdown - 7.5%
+* Sharpe ratio - -0.719
+* Drawdown - 7.5%
 
 
 Random XGBoost ML prediction (take this with a grain of salt as it is pretty much a random prediction):
-
-Sharpe ratio - 1.386
-
-Drawdown - 23.6%
+* Sharpe ratio - 1.386
+* Drawdown - 23.6%
 
